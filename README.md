@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Sally
-### 👩‍💻 Data Science student @ BPP
-### 👩‍💼 Account Executive @ Mindshare
-### 🌱 I'm currently learning SQL, R, Python and HTML
-### 📫 Reach me on [Linkedin](https://www.linkedin.com/in/sallytppham/)
+- 👋 Hi there, I'm Sally :)
+- 👩‍💻 Data Science student @ BPP
+- 👩‍💼 Account Executive @ Mindshare
+- 🌱 I'm currently learning SQL, R, Python and HTML
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/sallytppham/)
 
 <!--
 **msptp/msptp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
