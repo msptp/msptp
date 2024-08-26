@@ -1,9 +1,9 @@
 - 👋 Hi there :)
 - 👩‍💻 Data Science student @ BPP
-- 👩‍💼 Account Manager @ Mindshare
 - 🌱 I'm currently learning SQL, R and Python
 
 <!--
+- 👩‍💼 Account Manager @ Mindshare
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/sallytppham/)
 
 <!--
